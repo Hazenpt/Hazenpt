@@ -44,7 +44,7 @@ status:         Online — probably coding
 ## 📦 Featured Projects
 
 ### 🛒 [HazeStore](https://github.com/Hazenpt/Hazestore)
-> A modern storefront built for the web. Clean UI, fast, and built to scale.
+> A modern plugin for store rotation
 
 ---
 
