@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Hazenpt
+#  Hazenpt
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Minecraft+Plugin+Developer;Building+things+that+matter.)
 
